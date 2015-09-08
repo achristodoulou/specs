@@ -1,0 +1,12 @@
+{
+  "name": "me/specs",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "autoload":
+    {
+      "psr-4": {
+        "Specs\\": "src"
+      }
+    }
+
+}
